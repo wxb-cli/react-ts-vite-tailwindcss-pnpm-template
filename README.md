@@ -27,6 +27,7 @@ pnpm run build
 # 已配置功能
 - ✅ TypeScript
 - ✅ React
+- ✅ Tailwind Css
 - ✅ Eslint
 - ✅ Stylelint
 - ✅ Commitlint
